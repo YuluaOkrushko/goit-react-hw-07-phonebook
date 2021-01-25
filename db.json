@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Maria",
+      "number": "432-34-54",
+      "id": 1
+    },
+    {
+      "name": "Eddie",
+      "number": "345-65-43",
+      "id": 2
+    },
+    {
+      "name": "Kate",
+      "number": "678-76-56",
+      "id": 3
+    },
+    {
+      "name": "Carry",
+      "number": "564-34-53",
+      "id": 4
+    },
+    {
+      "name": "Michell",
+      "number": "634-55-32",
+      "id": 5
+    }
+  ]
+}
